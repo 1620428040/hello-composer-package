@@ -1,0 +1,6 @@
+{
+    "name": "abandon/hello-composer-package",
+    "require": {
+        "monolog/monolog": "1.2.*"
+    }
+}
